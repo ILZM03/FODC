@@ -1089,7 +1089,7 @@ body {
   }
 
   .hero-btn-social-container {
-    display: flex;
+    /* display: flex; */
     flex-direction: row;
     justify-content: space-between;
     padding-bottom: 2rem;
